@@ -7,3 +7,5 @@ Time to embrace cloud computing and say goodbye to:
 - Manual standup of server environments
 
 Multi-track development, here I come!
+
+I may have introduced a conflict...
