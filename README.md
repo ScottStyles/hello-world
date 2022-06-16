@@ -9,3 +9,5 @@ Time to embrace cloud computing and say goodbye to:
 Multi-track development, here I come!
 
 Today I am editing this file from a branch on my local machine.
+
+I may have introduced a conflict...
