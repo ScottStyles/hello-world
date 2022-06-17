@@ -15,3 +15,5 @@ More conflicts. Why can't we get along?
 Today I am editing this file from a branch on my local machine.
 
 Coding from a browser? Incredible.
+
+Maybe it's even better that I can use my local IDE to modify storage and use compute in a remote codespace.
